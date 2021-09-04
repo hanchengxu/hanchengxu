@@ -1,6 +1,6 @@
 Hi👋
 -------
-#### 中文 | [日本語](https://github.com/a2181745/a2181745/edit/main/README-ja.md) 
+#### 中文 | [日本語](https://github.com/a2181745/a2181745/blob/main/README-ja.md) 
 
 大家好，一名从业6年的web开发工程师。软件编程对于我不仅仅是工作，更是一种业余爱好。  
 
