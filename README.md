@@ -46,13 +46,14 @@ Hi👋
 实现上述功能的全部知识，但作为比仓鼠寿命高几十倍的物种来说，我认为我还是有时间和机会去实现这个远大的目标的。😊
 
 ## 围观
-目前您可以来我的项目主页里看到我的仓鼠的运动信息
+目前您可以来我的项目主页，观看我的仓鼠的运动信息
 这可它真实的运动数据哟💪
 
 项目主页👉：https://hanchengxu.com/hCare
 
-最后奉上一张他的照片
-![alt](https://github.com/a2181745/hamster-esp32/blob/main/hamster.jpg)
+最后奉上一张他的照片  
+<img src="https://github.com/a2181745/hamster-esp32/blob/main/hamster.jpg" width = "600" height = "360" alt="" align=center />
+
 
 对了，他的名字叫 **溜肉段！😃**
 
