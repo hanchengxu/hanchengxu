@@ -43,7 +43,7 @@ arduinoプラットホームをきっかけ，C、C++の知識あまり持って
 今プロトタイプのホームページで私飼うハムスター運動情報を見えます。
 これは毎日真実の回し状態ですよ💪。
 
-ホームページ👉：https://hanchengxu.com/hCare
+ホームページ👉： https://github.hanchengxu.com/#/hCare
 
 最後、僕のハムスターの画像です。  
 <img src="https://github.com/a2181745/hamster-esp32/blob/main/hamster.jpg" width = "600" height = "360" alt="" align=center />
