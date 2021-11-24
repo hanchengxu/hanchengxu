@@ -52,7 +52,7 @@ Hi👋
 这可它真实的运动数据哟💪
 
 项目主页👉：  
- 　　　　　　https://hanchengxu.com/hCare (大陆访问迅速⚡)  
+ 　　　　　　https://hanchengxu.com/#/hCare (大陆访问迅速⚡)  
  　　　　　　https://github.hanchengxu.com/#/hCare (境外)
 
 最后奉上一张他的照片  
