@@ -1,9 +1,18 @@
-Hi👋
+Hi👋 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=hanchengxu"/>
 -------
 #### 中文 | [日本語](https://github.com/a2181745/a2181745/blob/main/README-ja.md) 
+大家好，我是Hanchengxu，一名从业7年的web软件开发工程师。软件编程对于我不仅仅是工作，更是一种业余爱好。
 
-大家好，我是一名从业7年的web软件开发工程师。软件编程对于我不仅仅是工作，更是一种业余爱好。   
-我对前沿技术也充满了兴趣。
+<a href="https://github.com/hanchengxu/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanchengxu&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" />
+</a> 
+<a href="https://github.com/hanchengxu/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanchengxu&layout=compact&theme=dracula&hide_border=true" />
+</a>
+
+![](./profile-3d-contrib/profile-green.svg#gh-light-mode-only)
+![](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
+
 
 最近痴迷于arduino，正在制作一款IoT仓鼠笼，如果感兴趣，不妨往下看看👇
 
