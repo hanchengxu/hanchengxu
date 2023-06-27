@@ -1,4 +1,4 @@
-Hi👋 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=hanchengxu"/>
+Hi👋 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 -------
 #### 中文 | [日本語](https://github.com/a2181745/a2181745/blob/main/README-ja.md) 
 大家好，我是Hanchengxu，一名从业7年的web软件开发工程师。软件编程对于我不仅仅是工作，更是一种业余爱好。
