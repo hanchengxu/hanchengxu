@@ -1,7 +1,7 @@
 Hi👋  <img align="right" src="https://komarev.com/ghpvc/?username=hanchengxu&style=flat-square"/>
 -------
 #### 中文 | [日本語](https://github.com/a2181745/a2181745/blob/main/README-ja.md) 
-大家好，我是Hanchengxu，一名从业7年的web软件开发工程师。软件编程对于我不仅仅是工作，更是一种业余爱好。
+大家好，我是Hanchengxu，一名从业8年的web软件开发工程师。软件编程对于我不仅仅是工作，更是一种业余爱好。
 
 <!-- <a href="https://github.com/hanchengxu/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hanchengxu&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" />
